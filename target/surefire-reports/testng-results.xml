@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-23T15:47:21 IST" name="Command line suite" finished-at="2022-11-23T15:47:43 IST" duration-ms="21596">
+    <groups>
+    </groups>
+    <test started-at="2022-11-23T15:47:21 IST" name="Command line test" finished-at="2022-11-23T15:47:43 IST" duration-ms="21596">
+      <class name="Day3.SmokeTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Day3.SmokeTest@9d5509a]" started-at="2022-11-23T15:47:29 IST" name="setup" finished-at="2022-11-23T15:47:32 IST" duration-ms="3226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyForgetPassword()[pri:0, instance:Day3.SmokeTest@9d5509a]" started-at="2022-11-23T15:47:32 IST" name="verifyForgetPassword" finished-at="2022-11-23T15:47:32 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgetPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Day3.SmokeTest@9d5509a]" started-at="2022-11-23T15:47:32 IST" name="tearDown" finished-at="2022-11-23T15:47:32 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Day3.SmokeTest@9d5509a]" started-at="2022-11-23T15:47:32 IST" name="setup" finished-at="2022-11-23T15:47:35 IST" duration-ms="3303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySocialMediaCount()[pri:0, instance:Day3.SmokeTest@9d5509a]" started-at="2022-11-23T15:47:35 IST" name="verifySocialMediaCount" finished-at="2022-11-23T15:47:35 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySocialMediaCount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Day3.SmokeTest@9d5509a]" started-at="2022-11-23T15:47:35 IST" name="tearDown" finished-at="2022-11-23T15:47:36 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Day3.SmokeTest@9d5509a]" started-at="2022-11-23T15:47:36 IST" name="setup" finished-at="2022-11-23T15:47:39 IST" duration-ms="3702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTitle()[pri:0, instance:Day3.SmokeTest@9d5509a]" started-at="2022-11-23T15:47:39 IST" name="verifyTitle" finished-at="2022-11-23T15:47:39 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Day3.SmokeTest@9d5509a]" started-at="2022-11-23T15:47:39 IST" name="tearDown" finished-at="2022-11-23T15:47:39 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Day3.SmokeTest@9d5509a]" started-at="2022-11-23T15:47:39 IST" name="setup" finished-at="2022-11-23T15:47:43 IST" duration-ms="3450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyURL()[pri:0, instance:Day3.SmokeTest@9d5509a]" started-at="2022-11-23T15:47:43 IST" name="verifyURL" finished-at="2022-11-23T15:47:43 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyURL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Day3.SmokeTest@9d5509a]" started-at="2022-11-23T15:47:43 IST" name="tearDown" finished-at="2022-11-23T15:47:43 IST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Day3.SmokeTest -->
+      <class name="Day3.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Day3.LoginTest@6743e411]" started-at="2022-11-23T15:47:22 IST" name="setup" finished-at="2022-11-23T15:47:27 IST" duration-ms="5755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifywithinvalidpassword()[pri:0, instance:Day3.LoginTest@6743e411]" started-at="2022-11-23T15:47:27 IST" name="verifywithinvalidpassword" finished-at="2022-11-23T15:47:27 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifywithinvalidpassword -->
+        <test-method signature="verifywithinvalidusername()[pri:0, instance:Day3.LoginTest@6743e411]" started-at="2022-11-23T15:47:27 IST" name="verifywithinvalidusername" finished-at="2022-11-23T15:47:28 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifywithinvalidusername -->
+        <test-method signature="verifywithinvalidusernameandpassword()[pri:0, instance:Day3.LoginTest@6743e411]" started-at="2022-11-23T15:47:28 IST" name="verifywithinvalidusernameandpassword" finished-at="2022-11-23T15:47:28 IST" duration-ms="657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifywithinvalidusernameandpassword -->
+        <test-method signature="verifywithoutusernamepassword()[pri:0, instance:Day3.LoginTest@6743e411]" started-at="2022-11-23T15:47:28 IST" name="verifywithoutusernamepassword" finished-at="2022-11-23T15:47:28 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifywithoutusernamepassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Day3.LoginTest@6743e411]" started-at="2022-11-23T15:47:28 IST" name="tearDown" finished-at="2022-11-23T15:47:29 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Day3.LoginTest -->
+      <class name="Day3.MyFirstTestNGTest">
+        <test-method signature="login()[pri:1, instance:Day3.MyFirstTestNGTest@6f03482]" started-at="2022-11-23T15:47:29 IST" name="login" finished-at="2022-11-23T15:47:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createAccount()[pri:2, instance:Day3.MyFirstTestNGTest@6f03482]" started-at="2022-11-23T15:47:29 IST" name="createAccount" finished-at="2022-11-23T15:47:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method signature="logoutFromApppLocation()[pri:4, instance:Day3.MyFirstTestNGTest@6f03482]" started-at="2022-11-23T15:47:29 IST" name="logoutFromApppLocation" finished-at="2022-11-23T15:47:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFromApppLocation -->
+        <test-method signature="deleteAccount()[pri:3, instance:Day3.MyFirstTestNGTest@6f03482]" started-at="2022-11-23T15:47:29 IST" name="deleteAccount" finished-at="2022-11-23T15:47:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAccount -->
+      </class> <!-- Day3.MyFirstTestNGTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
