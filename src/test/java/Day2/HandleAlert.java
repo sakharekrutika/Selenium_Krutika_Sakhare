@@ -30,6 +30,7 @@ public class HandleAlert {
 		if(msg.contains("Please enter a valid user name"))
 		{
 			System.out.println("TestPassed");
+			System.out.println("ok");
 		}
 		else{
 			System.out.println("Test failed");
